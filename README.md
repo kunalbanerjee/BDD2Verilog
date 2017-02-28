@@ -8,5 +8,5 @@ This tool is a product of our works reported below:
 * [Designing DPA Resistant Circuits Using BDD Architecture and Bottom Pre-charge Logic, DSD 2013](http://ieeexplore.ieee.org/document/6628337/)
 
 
-For more information please contact:
+For more information, please contact:
 kunal.banerjee.cse@gmail.com
