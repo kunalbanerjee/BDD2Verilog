@@ -1,0 +1,29 @@
+.model DD
+.inputs v0 v1 v2 v3
+.outputs out2
+.names 5cd07
+1
+.names v3 5cd07 5cd07 5cd0e
+11- 1
+0-0 1
+.names v2 5cd0e 5cd07 5cd18
+11- 1
+0-0 1
+.names v1 5cd0e 5cd18 5cd22
+11- 1
+0-0 1
+.names v2 5cd0e 5cd07 5cd0f
+11- 1
+0-1 1
+.names v2 5cd07 5cd07 5cd0d
+11- 1
+0-0 1
+.names v1 5cd0f 5cd0d 5cd24
+11- 1
+0-0 1
+.names v0 5cd22 5cd24 5cd25
+11- 1
+0-0 1
+.names 5cd25 out2
+1 1
+.end

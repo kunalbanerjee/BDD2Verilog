@@ -1,0 +1,31 @@
+graph BDD_Tree {
+	 node1 [label="v2"];
+	 node2 [label="v0s1"];
+	 node1 -- node2 [style=solid];
+	 node7 [label="v1"];
+	 node1 -- node7 [style=dashed];
+	 node15 [label="0",shape=box];
+	 node2 -- node15 [style=solid];
+	 node9 [label="v3"];
+	 node2 -- node9 [style=dashed];
+	 node15 [label="0",shape=box];
+	 node9 -- node15 [style=solid];
+	 node17 [label="1",shape=box];
+	 node9 -- node17 [style=dashed];
+	 node8 [label="v0s2"];
+	 node7 -- node8 [style=solid];
+	 node13 [label="v0p"];
+	 node7 -- node13 [style=dashed];
+	 node9 [label="v3"];
+	 node8 -- node9 [style=solid];
+	 node17 [label="1",shape=box];
+	 node8 -- node17 [style=dashed];
+	 node14 [label="v3p"];
+	 node13 -- node14 [style=dashed];
+	 node17 [label="1",shape=box];
+	 node13 -- node17 [style=solid];
+	 node15 [label="0",shape=box];
+	 node14 -- node15 [style=dashed];
+	 node17 [label="1",shape=box];
+	 node14 -- node17 [style=solid];
+}

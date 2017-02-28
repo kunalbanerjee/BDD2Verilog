@@ -1,0 +1,151 @@
+8
+v6 v1 v4 v3 v0 v2 v5 v7 
+5
+1
+69
+
+v6s1
+v1s1 1 v1s2 0
+
+v1s1
+v4s4 1 v4s2 0
+v1s2
+v4s3 1 v4s1 0
+
+v4s1
+v3s2 1 v3s4 0
+v4s2
+v3s7 1 v3s1 0
+v4s3
+v3s8 1 v3s3 0
+v4s4
+v3s6 1 v3s5 0
+
+v3s1
+v0s4 1 v0s11 0
+v3s2
+v0s2 1 v0s9 0
+v3s3
+v0s12 1 v0s6 0
+v3s4
+v0s15 1 v2s6 0
+v3s5
+v0s8 1 v0s3 0
+v3s6
+v0s1 1 v0s5 0
+v3s7
+v0s13 1 v0s7 0
+v3s8
+v0s14 1 v0s10 0
+
+v0s1
+v2s19 1 v2s3 0
+v0s2
+v2s10 1 v2s3 0
+v0s3
+v2s14 1 v2s5 0
+v0s4
+v2s13 1 v2s12 0
+v0s5
+v2s15 1 v2s9 0
+v0s6
+v2s19 1 v2s11 0
+v0s7
+v2s1 1 v2s22 0
+v0s8
+v2s18 1 v2s22 0
+v0s9
+v2s23 1 v2s20 0
+v0s10
+v5s10 1 v2s8 0
+v0s11
+v2s21 1 v2s7 0
+v0s12
+v2s25 1 v2s16 0
+v0s13
+v2s24 1 v2s4 0
+v0s14
+v2s18 1 v2s17 0
+v0s15
+v2s2 1 v2s13 0
+
+v2s1
+v5s10 1 v5s6 0
+v2s2
+0 1 v5s9 0
+v2s3
+v5s5 1 v5s10 0
+v2s4
+v5s12 1 v5s7 0
+v2s5
+v5s9 1 v5s7 0
+v2s6
+v7s1 1 v5s4 0
+v2s7
+v5s12 1 v7s2 0
+v2s8
+0 1 v5s5 0
+v2s9
+v5s7 1 v5s3 0
+v2s10
+v5s4 1 v5s3 0
+v2s11
+v5s4 1 v5s10 0
+v2s12
+v5s1 1 v5s3 0
+v2s13
+v5s7 1 v7s1 0
+v2s14
+v5s1 1 v5s9 0
+v2s15
+v5s5 1 v5s2 0
+v2s16
+v5s4 1 1 0
+v2s17
+v5s4 1 v5s11 0
+v2s18
+v5s8 1 v5s4 0
+v2s19
+0 1 v5s7 0
+v2s20
+v5s2 1 v7s2 0
+v2s21
+v5s2 1 v5s6 0
+v2s22
+v5s10 1 v5s3 0
+v2s23
+v5s3 1 0 0
+v2s24
+v5s8 1 v5s9 0
+v2s25
+v5s11 1 1 0
+
+v5s1
+0 1 v7s1 0
+v5s2
+0 1 1 0
+v5s3
+0 1 v7s2 0
+v5s4
+1 1 v7s1 0
+v5s5
+1 1 0 0
+v5s6
+1 1 v7s2 0
+v5s7
+v7s1 1 1 0
+v5s8
+v7s1 1 0 0
+v5s9
+v7s1 1 v7s2 0
+v5s10
+v7s2 1 v7s1 0
+v5s11
+v7s2 1 1 0
+v5s12
+v7s2 1 0 0
+
+v7s1
+0 1 1 0
+v7s2
+1 1 0 0

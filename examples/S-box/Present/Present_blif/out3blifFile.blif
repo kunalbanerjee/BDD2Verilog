@@ -1,0 +1,20 @@
+.model DD
+.inputs v0 v1 v2 v3
+.outputs out3
+.names 84607
+1
+.names v3 84607 84607 8460e
+11- 1
+0-0 1
+.names v2 8460e 8460e 84626
+11- 1
+0-0 1
+.names v1 84626 8460e 84627
+11- 1
+0-1 1
+.names v0 84627 84627 84629
+11- 1
+0-0 1
+.names 84629 out3
+0 1
+.end
