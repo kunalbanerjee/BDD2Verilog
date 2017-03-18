@@ -9,6 +9,17 @@ This tool is a product of our works reported below:
 * [A BDD based Secure Hardware Design Method to Guard against Power Analysis Attacks, VDAT 2014](http://ieeexplore.ieee.org/document/6881088/)
 * [Designing DPA Resistant Circuits Using BDD Architecture and Bottom Pre-charge Logic, DSD 2013](http://ieeexplore.ieee.org/document/6628337/)
 
+If you use this tool, then please cite the following work: <br />
+@inproceedings{DeBMM14, <br />
+  author    = {Partha De and Kunal Banerjee and Chittaranjan Mandal and Debdeep Mukhopadhyay}, <br />
+  title     = {Circuits and Synthesis Mechanism for Hardware Design to Counter Power Analysis Attacks}, <br />
+  booktitle = {17th Euromicro Conference on Digital System Design, {DSD} 2014, Verona, Italy, August 27-29, 2014}, <br />
+  pages     = {520--527}, <br />
+  year      = {2014}, <br />
+  url       = {http://dx.doi.org/10.1109/DSD.2014.61}, <br />
+  doi       = {10.1109/DSD.2014.61}, <br />
+}
+
 
 For more information, please contact:
 kunal.banerjee.cse@gmail.com
