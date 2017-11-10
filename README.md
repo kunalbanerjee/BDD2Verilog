@@ -16,7 +16,7 @@ If you use this tool, then please cite the following work: <br />
   booktitle = {17th Euromicro Conference on Digital System Design, {DSD} 2014, Verona, Italy, August 27-29, 2014}, <br />
   pages     = {520--527}, <br />
   year      = {2014}, <br />
-  url       = {http://dx.doi.org/10.1109/DSD.2014.61}, <br />
+  url       = {<http://dx.doi.org/10.1109/DSD.2014.61>}, <br />
   doi       = {10.1109/DSD.2014.61}, <br />
 }
 
